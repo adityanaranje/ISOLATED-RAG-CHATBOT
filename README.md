@@ -144,7 +144,7 @@ PINECONE_INDEX=rag-index
 
 Clone repository
 
-git clone https://github.com/adityanaranje/ISOLATED-RAG-CHATBOT
+git clone https://github.com/adityanaranje/ISOLATED-RAG-CHATBOT\
 cd isolated-rag-langgraph
 
 Install dependencies
