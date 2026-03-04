@@ -144,7 +144,7 @@ PINECONE_INDEX=rag-index
 
 Clone repository
 
-git clone https://github.com/yourusername/isolated-rag-langgraph.git\
+git clone https://github.com/adityanaranje/ISOLATED-RAG-CHATBOT
 cd isolated-rag-langgraph
 
 Install dependencies
@@ -153,7 +153,7 @@ pip install -r requirements.txt
 
 Run Streamlit
 
-streamlit run app.py
+streamlit run input.py
 
 Application runs at:
 
