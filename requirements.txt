@@ -1,0 +1,12 @@
+ipykernel
+PyPDF
+langchain
+langchain_community
+langchain_core
+pinecone
+langgraph 
+openai 
+tiktoken
+langchain-openai
+streamlit
+langchain_pinecone 
